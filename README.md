@@ -55,31 +55,31 @@ The CRISP-DM process is a data mining process framework that describes common ap
 
 5. Exploratory Data Analysis
 
-   1. Which cities are the top performers in terms of sales?
+   - Which cities are the top performers in terms of sales?
 
     <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/CRISP-DM%20Supermarket/Top%20Performers.png"/></div>
 
    From the image, it can be seen that Naypyitaw emerged as the leader in sales when analyzing key metrics such as total revenue, average sales per transaction, and sales growth rate. Its consistently strong performance in these areas confirms its position as the city with the highest sales, providing important insights into its economic prowess and dominance in the market.
 
-   2. What are the most common payment methods used by customers?
+   - What are the most common payment methods used by customers?
 
     <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/CRISP-DM%20Supermarket/Common%20Payment.png"/></div>
 
    From the chart above, it can be seen that E-wallets are growing in popularity compared to cash, indicating that more and more people prefer digital transactions. However, cash is still widely used, indicating that many people still prefer traditional methods. Credit card usage is not very high, suggesting that there is still room to encourage its use or make it more attractive. This suggests that businesses can capitalize on the popularity of e-wallets, accommodate those who still prefer cash, and make credit cards more attractive to cater to different customer preferences.
 
-   3. What types of products do people buy the most by gender?
+   - What types of products do people buy the most by gender?
 
     <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/CRISP-DM%20Supermarket/Buy%20Product%20by%20Gender.png"/></div>
 
    Based on the data analysis, it is clear that there are clear differences in the types of products preferred by different genders. Men tend to gravitate towards purchases in the “Food and Beverage” category, whereas women show a stronger inclination towards products categorized under “Health and Beauty”. These gendered buying patterns indicate different preferences and priorities among consumers, highlighting the importance of gender-specific marketing strategies and product offerings in meeting the needs and interests of diverse consumers.
 
-   4. Which product lines are the best-selling?
+   - Which product lines are the best-selling?
 
     <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/CRISP-DM%20Supermarket/Best%20Selling%20Product%20Type.png"/></div>
 
    Based on the chart, Fashion accessories emerge as the best-selling product line, with 178 transactions, closely followed by Food and beverages with 174 transactions. Electronic accessories secured the third position with 170 transactions. This data emphasizes the strong demand for fashion accessories and food and beverages, highlighting the importance of catering to customer preferences across various product categories.
 
-   5. Which types of customers generate the most revenue?
+   - Which types of customers generate the most revenue?
 
     <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/CRISP-DM%20Supermarket/Customer%20Type.png"/></div>
 
