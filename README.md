@@ -4,7 +4,7 @@ This repository contains the code and data for the CRISP-DM Supermarket project.
 
 The CRISP-DM process is a data mining process framework that describes common approaches used by data mining experts. It is the most widely-used analytics model. The CRISP-DM process includes the following steps:
 
-1. Business Understanding
+## 1. Business Understanding
 
    - Background : The dataset represents sales transactions from a supermarket spanning from January 1st, 2019 to March 30th, 2019. It contains information about customer demographics, products sold, pricing, and payment details. Understanding this data can provide valuable insights into sales performance, customer behavior, and product popularity. By analyzing this dataset, businesses can optimize their strategies, enhance customer experiences, and drive revenue growth.
 
@@ -15,7 +15,7 @@ The CRISP-DM process is a data mining process framework that describes common ap
      4. Which product lines are the best-selling?
      5. Which types of customers generate the most revenue?
 
-2. Data Understanding
+## 2. Data Understanding
 
    - Data contain transactional data from a supermarket in January 2019 to March 2019.
    - Source: [Kaggle](https://www.kaggle.com/aungpyaeap/supermarket-sales)
@@ -39,21 +39,21 @@ The CRISP-DM process is a data mining process framework that describes common ap
      - Gross Income: Gross income.
      - Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10).
 
-3. Data Preparation
+## 3. Data Preparation
 
    - Code Used:
      - Python Version: 3.7.6
    - Packages:
      - Pandas, Numpy, Matplotlib, and Seaborn
 
-4. Data Cleaning
+## 4. Data Cleaning
 
    - Check for missing values :
      By checking the information from the data in the dataset used, it is known that there are no missing values , so no data imputation is performed on the dataset used.
    - Check for data types :
      The data type of the 'Date' column was converted from object to datetime64 to facilitate time-based analysis. Additionally, the DataFrame index was set to the 'Date' column to streamline time-based operations.
 
-5. Exploratory Data Analysis
+## 5. Exploratory Data Analysis
 
    - Which cities are the top performers in terms of sales?
 
@@ -85,7 +85,7 @@ The CRISP-DM process is a data mining process framework that describes common ap
 
    From the data presented, an analysis of customer types in the sales records unveils two distinct categories: regular customers and members. Among these, members stand out as the primary revenue generators, boasting a substantially higher total spend compared to regular customers. This observation underscores the pivotal role of customer loyalty programs and highlights the potential advantages of offering membership incentives to bolster both revenue generation and customer retention efforts.
 
-6. Summary
+## 6. Summary
 
    - Naypyitaw leads in sales, indicating market dominance.
    - E-wallets are growing, cash remains popular, and credit card use is low.
